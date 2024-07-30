@@ -1,4 +1,4 @@
-# chord-generator
+# transformer-chord-generator
 
 The (complete) file chords_scraper.ipynb produces the chords dataset by web scraping Ultimate Guitar for chords.
 
